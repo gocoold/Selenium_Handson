@@ -38,5 +38,3 @@
       When I login without providing login credentials
       Then I should not be able to login to the application
       And I get an error 'Please enter valid Email ID/Mobile number
-
-
